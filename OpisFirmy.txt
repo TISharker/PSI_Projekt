@@ -1,0 +1,7 @@
+Firma "AllIn" zajmuje się organizowaniem legalnych zakładów bukmacherskich oraz przeprowadzaniem gier losowych. Klientom oferowana jest możliwość obstawiania wyników wydarzeń z różnych dziedziń, zarówno sportów tradycyjnych, e-sportu, oraz innych zdarzeń niezwiązanych ze sportem. Siedziba firmy znajduje się w Warszawie, firma operuje głównie online, ale są również dostępne punkty stacjonarne w większych miastach.
+
+Przykładowymi dziedzinami sportowymi, którymi zajmuje się zakład są: piłka nożna, koszykówka, siatkówka, wyścigi konne, walki MMA.
+Oferowana jest również możliwość obstawiania wydarzeń nie związanych ze sportem, na przykład wyników wyborów.
+Firma przeprowadza również gry losowe, w których może brać udział klient: poker, blackjack, ruletka, automaty z grami.
+
+Cel wytworzenia systemu informatycznego: umożliwienie obsługi zakładu bukmacherskiego w zakresie ustalania kursów, obstawiania zakładów, sprawdzania wyników oraz wypłacania wygranej
