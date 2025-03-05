@@ -1,0 +1,22 @@
+Procesy Biznesowe:
+
+Obstawienie zakładu bukmacherskiego:
+	*Klient wybiera wydarzenie sportowe/e-sportowe spośród dostępnych w ofercie na podstawie:
+		- oferty dostępnej na stronie internetowej zakładu bukmacherskiego.
+		- oferty przedstawionej przez pracownika zakładu bukmacherskiego w jednosce stacjonarnej.
+	*Klient samodzielnie obstawia zakład poprzez strone internetową bądź też z pomocą pracownika w jednosce
+	 stacjonarnej.Po wybraniu zakładu klient opłaca go poprzez płatnośc elektroniczną (PayPal,Blik,Karta 	 kredytowa), bądź gotówką w jednosce stacjonarnej bukmachera.
+
+Obstawieie pieniędzy w grze losowej:
+	*Klient przystępuje do jednej z dostępnych w ofercie gier losowych uiszczając przed rozpoczęciem 		rozgrywki wybraną przez siebie kwote pieniężną, która nie jest niższa od woty minimalnej wejścia.
+	Rozgrywki odbywają się zarówno stacjonarnie jak i przez internet. Przebiegiem rozgrywek zarządzają 	pracownicy zakładu bukmacherskeigo.
+
+Ustalanie ceny:
+	*Kurs zakładów bukmacherskich jest ustalany na podstawie zakładów innych klientów (tzn. im więcej 		klientów obstawi wygrana A tym wiekszy kurs będzie mieć zakład na wygraną B). 
+	*Kwota minimalna gier losowych jest ustalana przez właściciela. Kwoty wejścia różnią się w zależności 		od wybranej gry losowej jak i stolika w przypadku gier karcianych.
+
+Zawarcie umowy z klientem:
+	* W momencie opłacenia zakładu bądź rozgrywki Pracownik z upoważnienia właściciela zawiera umowę z 	klientem regulującą zasady wygrania pieniędzy. 
+
+
+   
