@@ -1,0 +1,65 @@
+Proces biznesowy: Obstawienie zakładu bukmacherskiego
+	Czynności:
+	1. Klient loguje się do systemu.
+	2. Klient sprawdza dostępne oferty zakładów w systemie.
+	3. Klient wybiera zakład za pomocą systemu oraz ustala kwotę zakładu.
+	4. Klient przelewa pieniądze.
+	5. Klient potwierdza zakład.
+	6. System zatwierdza zakład.
+
+	Rozszerzenia:
+	1.A. Klient nie posiada konta.
+		1.A.1. System prosi o rejestrację klienta.
+		1.A.2. System prosi o podanie adresu e-mail, numeru telefonu, hasła oraz nazwy konta.
+		1.A.3. System wysyła link weryfikujący na numer telefonu klienta.
+		1.A.4. Klient weryfikuje numer telefonu.
+		1.A.5. System tworzy nowe konto z danymi klienta.
+	1.B. Klient podaje złe dane logowania
+		1.B.1. System prosi o ponowne podanie danych logowania.
+	4.A. Oferta zakładu staje się nieaktualna przed przelaniem pieniędzy przez klienta.
+		4.A.1. Wyświetlany jest komunikat, klient jest przekierowywany na stronę główną witryny.
+	5.A. Oferta zakładu staje się nieaktualna przed potwierdzeniem zakładu przez klienta.
+		5.A.1. Wyświetlany jest komunikat, pieniądze zostają przelane z powrotem na konto klienta,
+		klient jest przekierowywany na stronę główną witryny.
+	6.A. Klient chce anulować zakład.
+		6.A.1. System anuluje zakład i przelewa obstawione pieniądze z powrotem na konto klienta.
+	6.B. Klient chce zmienić kwotę zakładu.
+		6.B.1. W przypadku zmniejszenia kwoty: na konto klienta są przelewane pieniądze pozostałe po
+		odjęciu nowej kwoty od starej.
+		6.B.2. W przypadku zwiększenia kwoty: system prosi klienta o przelanie dodatkowych pieniędzy.
+
+Proces biznesowy: Sprawdzenie wyników oraz przelanie wygranej kwoty.
+	Czynności:
+	1. Pracownik loguje się do systemu.
+	2. Pracownik dodaje wynik danego wydarzenia do systemu.
+	3. System aktualizuje wynik danego wydarzenia.
+	4. Klient loguje się do systemu.
+	5. Klient sprawdza wynik zakładu.
+
+	Rozszerzenia:
+	1.A. Pracownik podaje złe dane logowania.
+		1.A.1. System prosi pracownika o ponowne podanie danych logowania.
+	2.A. Wynik jest w niepoprawnym formacie.
+		2.A.1. System prosi pracownika o poprawne wpisanie wyniku.
+	4.A. Klient podaje złe dane logowania
+		4.A.1. System prosi o ponowne podanie danych logowania.
+	5.A. Klient wygrywa zakład.
+		5.A.1. System zezwala na wypłacenie wygranej.
+		5.A.2. System prosi o potwierdzenie wypłaty.
+		5.A.3. System przelewa pieniądze na konto klienta.
+
+Proces biznesowy: Ustalenie kursów dostępnych zakładów.
+	Czynności:
+	1. System sprawdza ilość zakładów na wyniki danego wydarzenia.
+	2. System oblicza kurs na podstawie ilości zakładów na dany wynik wydarzenia.
+	3. Kurs danej opcji jest aktualizowany przez system.
+
+Proces biznesowy: Ustalenie ceny gier losowych
+	Czynności:
+	1. Właściciel dodaje rodzaj gry losowej do systemu.
+	2. Właściciel ustala cenę minimalną oraz możliwe kwoty wejścia danej gry.
+	3. System aktualizuje ofertę gier losowych.
+
+	Rozszerzenia:
+	2.A. Gra losowa jest grą karcianą.
+		2.A.1. Właściciel ustala cenę dla każdego możliwego stolika.
