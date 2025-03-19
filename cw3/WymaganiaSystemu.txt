@@ -1,0 +1,30 @@
+Aktorzy:
+	Użytkownik - osoba zalogowana w systemie.
+	Administrator - osoba zajmująca się zarządzaniem systemem.
+	Recepcjonista - osoba zajmująca się zarządzaniem zakładami bukmacherskimi.
+	Krupier - osoba zajmująca się zarządzaniem grami losowymi.
+	Klient - osoba, która może obstawiać wydarzenia oraz brać udział w grach losowych.
+
+Słownik:
+	Wydarzenie - wydarzenie sportowe o określonej dacie rozpoczęcia, które można obstawić w systemie.
+	Zakład bukmacherski - postawienie określonej ilości pieniędzy na wynik danego wydarzenia.
+	Kurs - mnożnik ilości wygranej kwoty danego zakładu
+	Gry losowe - gry w systemie, których wynik jest uzależniony od czynników losowych.
+
+Wymagania funkcjonalne:
+	1. System musi mieć możliwość rejestracji oraz logowania na konta przez użytkowników.
+	2. System powinien pozwalać użytkownikom na przeglądanie listy wydarzeń oraz ich wyszukiwanie.
+	3. System powinien pozwalać pracownikom na zarządzanie zakładami bukmacherskimi oraz ich wynikami.
+	4. System powinien umożliwiać administratorom na zarządzanie systemem.
+	5. System powinien umożliwiać klientom obstawienie danych zakładów (oraz ich edycję/anulowanie) i branie udziału w grach losowych.
+	6. System powinien automatycznie blokować możliwość obstawienia/edycji zakładu danego wydarzenia po minięciu daty i czasu rozpoczęcia.
+	7. System powinien automatycznie obliczać kurs zakładów na podstawie ilości zakładów na możliwe wyniki 	danego wydarzenia.
+	8. System powinien automatycznie przelewać pieniądze na konto klienta w przypadku wygranej zakładu i potwierdzenia wypłaty przez klienta, przelaniu pieniędzy po zablokowaniu danego zakładu przez system, zmniejszeniu kwoty zakładu lub jego anulowania.
+
+Wymagania jakościowe:
+	1. System powinien mieć przejrzysty interfejs dla użytkowników.
+	2. System powinien aktualizować zakłady klientów maksymalnie 30 sekund po ich dodaniu/edycji/anulowaniu.
+	3. System powinien umożliwiać wypłatę wygranej zakładu przez klienta maksymalnie 1 minutę po aktualizacji jego wyniku.
+
+Ograniczenia:
+	1. System powinien działać na urządzeniach mobilnych.
