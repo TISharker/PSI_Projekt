@@ -27,26 +27,43 @@ Proces biznesowy: Obstawienie zakładu bukmacherskiego
 		6.B.1. W przypadku zmniejszenia kwoty: na konto klienta są przelewane pieniądze pozostałe po
 		odjęciu nowej kwoty od starej.
 		6.B.2. W przypadku zwiększenia kwoty: system prosi klienta o przelanie dodatkowych pieniędzy.
-
-Proces biznesowy: Sprawdzenie wyników oraz przelanie wygranej kwoty.
+Proces biznesowy: Zarządzanie zakładami bukmacherskimi
 	Czynności:
-	1. Pracownik loguje się do systemu.
-	2. Pracownik dodaje wynik danego wydarzenia do systemu.
-	3. System aktualizuje wynik danego wydarzenia.
-	4. Klient loguje się do systemu.
-	5. Klient sprawdza wynik zakładu.
+	1. Recepcjonista loguje się do systemu.
+	2. Recepcjonista zarządza danym zakładem.
+	3. Recepcjonista potwierdza wykonane operacje.
+	4. System automatycznie aktualizuje bazę danych zakładów.
 
 	Rozszerzenia:
-	1.A. Pracownik podaje złe dane logowania.
-		1.A.1. System prosi pracownika o ponowne podanie danych logowania.
-	2.A. Wynik jest w niepoprawnym formacie.
-		2.A.1. System prosi pracownika o poprawne wpisanie wyniku.
-	4.A. Klient podaje złe dane logowania
-		4.A.1. System prosi o ponowne podanie danych logowania.
-	5.A. Klient wygrywa zakład.
-		5.A.1. System zezwala na wypłacenie wygranej.
-		5.A.2. System prosi o potwierdzenie wypłaty.
-		5.A.3. System przelewa pieniądze na konto klienta.
+	1.A. Recepcjonista podaje złe dane logowania.
+		1.A.1. System prosi recepcjonistę o ponowne podanie danych logowania.
+	2.A. Recepcjonista chce dodać nowy zakład bukmacherski.
+		2.A.1. System umożliwia utworzenie nowego zakładu bukmacherskiego
+		2.A.2. System dodaje zakład do bazy danych.
+	2.B. Recepcjonista chce edytować dane danego zakładu bukmacherskiego.
+		2.B.1. System umożliwia edycję zakładu bukmacherskiego z bazy danych.
+		2.B.2. System aktualizuje dane danego zakładu.
+	2.C. Recepcjonista chce usunąć dany zakład z bazy danych.
+		2.C.1. System umożliwia usunięcie zakładu bukmacherskiego z bazy danych.
+		2.C.2. System zwraca obstawione pieniądze klientom.
+		2.C.3. System usuwa dany zakład z bazy danych.
+	2.D. Recepcjonista chce dodać wynik danego zakładu bukmacherskiego.
+		2.D.1. System umożliwia recepcjoniście dodanie wyniku danego zakładu.
+		2.D.2. System aktualizuje wynik zakładu w bazie danych oraz zezwala na wypłatę wygranej kwoty klientom.
+	
+Proces biznesowy: Przelanie wygranej kwoty.
+	Czynności:
+	1. Klient loguje się do systemu.
+	2. Klient sprawdza wynik zakładu.
+	3. Klient wylogowuje się.
+
+	Rozszerzenia:
+	1.A. Klient podaje złe dane logowania
+		1.A.1. System prosi o ponowne podanie danych logowania.
+	2.A. Klient wygrywa zakład.
+		2.A.1. System zezwala na wypłacenie wygranej.
+		2.A.2. System prosi o potwierdzenie wypłaty.
+		2.A.3. System przelewa pieniądze na konto klienta.
 
 Proces biznesowy: Ustalenie kursów dostępnych zakładów.
 	Czynności:
@@ -56,10 +73,10 @@ Proces biznesowy: Ustalenie kursów dostępnych zakładów.
 
 Proces biznesowy: Ustalenie ceny gier losowych
 	Czynności:
-	1. Właściciel dodaje rodzaj gry losowej do systemu.
-	2. Właściciel ustala cenę minimalną oraz możliwe kwoty wejścia danej gry.
+	1. Krupier dodaje rodzaj gry losowej do systemu.
+	2. Krupier ustala cenę minimalną oraz możliwe kwoty wejścia danej gry.
 	3. System aktualizuje ofertę gier losowych.
 
 	Rozszerzenia:
 	2.A. Gra losowa jest grą karcianą.
-		2.A.1. Właściciel ustala cenę dla każdego możliwego stolika.
+		2.A.1. Krupier ustala cenę dla każdego możliwego stolika.
