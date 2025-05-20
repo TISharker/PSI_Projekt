@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="MGUYogNoVj9ggv2rBeZF">
-    <mxGraphModel dx="1188" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="350" pageHeight="625" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="350" pageHeight="625" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,101 +35,119 @@
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-26" value="&#xa;02.07.2025&lt;div&gt;17:00&lt;/div&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" vertex="1" parent="UgLzqwO8WUcNo-VI_L2k-42">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-26" value="&#xa;02.07.2025&lt;div&gt;17:00&lt;/div&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" parent="UgLzqwO8WUcNo-VI_L2k-42" vertex="1">
           <mxGeometry x="250" y="21.538461538461537" width="60" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Adam Kowalski&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 3.54&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UgLzqwO8WUcNo-VI_L2k-42">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Adam Kowalski&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 3.54&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UgLzqwO8WUcNo-VI_L2k-42" vertex="1">
           <mxGeometry x="10" y="53.84615384615385" width="150" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Edytuj&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="UgLzqwO8WUcNo-VI_L2k-42">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Edytuj&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="UgLzqwO8WUcNo-VI_L2k-42" vertex="1">
           <mxGeometry x="160" y="91.53846153846153" width="60" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Usuń&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="UgLzqwO8WUcNo-VI_L2k-42">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Usuń&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="UgLzqwO8WUcNo-VI_L2k-42" vertex="1">
           <mxGeometry x="250" y="86.15384615384615" width="70" height="43.07692307692307" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-48" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 2000.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UgLzqwO8WUcNo-VI_L2k-42">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-48" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 2000.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UgLzqwO8WUcNo-VI_L2k-42" vertex="1">
           <mxGeometry x="10" y="102.3076923076923" width="120" height="21.538461538461537" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
           <mxGeometry x="300" y="25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-15" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#eeeeee;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry y="495" width="350" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-16" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry width="50" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-17" value="Zakłady" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=none;strokeColor=default;fontColor=#666666;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry x="60" width="87.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-20" value="Gry losowe" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;strokeColor=default;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry x="260" y="-2.171" width="87.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry x="9.5" y="10.83" width="40.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-19" value="&lt;div&gt;Moje&amp;nbsp;&lt;/div&gt;&lt;div&gt;obstawienia&lt;/div&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;strokeColor=default;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry x="147.5" width="102.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Rik8_3UsQrIRvoAK4gwr-15" target="Rik8_3UsQrIRvoAK4gwr-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" as="sourcePoint" />
-            <mxPoint x="260" y="91" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-18" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-15">
-          <mxGeometry x="147.5" y="58.5" width="102.5" height="6.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-34" value="" style="shape=rect;strokeColor=default;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-34" value="" style="shape=rect;strokeColor=default;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="220" width="350" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-35" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Piłka nożna Niemcy - Francja&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;25.06&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;strokeColor=none;fillColor=#009900;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-35" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Piłka nożna Niemcy - Francja&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;25.06&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;strokeColor=none;fillColor=#009900;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Francja&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 2.13&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Francja&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 2.13&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry x="5" y="53.84615384615385" width="130" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-32" value="&lt;br&gt;25.06.2025&lt;div&gt;11:40&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-32" value="&lt;br&gt;25.06.2025&lt;div&gt;11:40&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry x="255" y="10.769230769230768" width="60" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-50" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 350.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-50" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 350.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry x="10" y="100.15384615384615" width="120" height="21.538461538461537" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-51" value="Wypłać" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-51" value="Wypłać" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry x="225" y="78.61538461538461" width="90" height="43.07692307692307" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-52" value="Wygrana 745.5zł" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-34">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-52" value="Wygrana 745.5zł" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-34" vertex="1">
           <mxGeometry x="145" y="89.38461538461539" width="60" height="32.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-53" value="" style="shape=rect;strokeColor=default;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-53" value="" style="shape=rect;strokeColor=default;fillColor=default;gradientColor=none;shadow=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="360" width="350" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-54" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Piłka nożna Niemcy - Francja&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;25.06&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;strokeColor=none;fillColor=#FF0000;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-54" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Piłka nożna Niemcy - Francja&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;25.06&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;strokeColor=none;fillColor=#FF0000;fontSize=8;fontColor=#000000;align=left;spacingTop=1;spacingLeft=2;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Verdana;html=1;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-55" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Niemcy&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 3.15&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-55" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiony wynik: Niemcy&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Kurs: 3.15&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry x="5" y="51.92307692307693" width="130" height="31.153846153846157" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-56" value="&lt;br&gt;25.06.2025&lt;div&gt;11:40&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-56" value="&lt;br&gt;25.06.2025&lt;div&gt;11:40&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#808080;strokeColor=none;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry x="255" y="10.384615384615385" width="60" height="31.153846153846157" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-57" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 500.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-57" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Obstawiona kwota: 500.0zł&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry x="10" y="96.57692307692308" width="120" height="20.76923076923077" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-59" value="Przegrana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-59" value="Przegrana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry x="145" y="86.1923076923077" width="60" height="31.153846153846157" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-60" value="Usuń" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-60" value="Usuń" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="Rik8_3UsQrIRvoAK4gwr-53" vertex="1">
           <mxGeometry x="225" y="75.80769230769232" width="95" height="41.53846153846154" as="geometry" />
         </mxCell>
-        <mxCell id="Rik8_3UsQrIRvoAK4gwr-61" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.001;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rik8_3UsQrIRvoAK4gwr-15" target="Rik8_3UsQrIRvoAK4gwr-53">
+        <mxCell id="Rik8_3UsQrIRvoAK4gwr-61" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.001;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Rik8_3UsQrIRvoAK4gwr-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="470" as="sourcePoint" />
+            <mxPoint x="-0.34999999999990905" y="495.1300000000001" as="sourcePoint" />
             <mxPoint x="-10" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-1" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#eeeeee;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="495" width="350" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry width="50" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-3" value="Zakłady" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=none;strokeColor=default;fontColor=#666666;" vertex="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-5" value="Gry losowe" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;strokeColor=default;" vertex="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry x="250" y="-0.0009999999999998899" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-6" value="&lt;div&gt;Moje&amp;nbsp;&lt;/div&gt;&lt;div&gt;obstawienia&lt;/div&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;strokeColor=default;" vertex="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry x="124" width="102.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" as="sourcePoint" />
+            <mxPoint x="250" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-4" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="geiL3Sx0utcLc4iKAXen-1">
+          <mxGeometry x="100" y="58.5" width="150" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="10" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="geiL3Sx0utcLc4iKAXen-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="geiL3Sx0utcLc4iKAXen-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="80" as="sourcePoint" />
+            <mxPoint x="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geiL3Sx0utcLc4iKAXen-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="geiL3Sx0utcLc4iKAXen-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
